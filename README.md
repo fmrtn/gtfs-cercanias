@@ -47,6 +47,9 @@ Puedes verificar los archivos generados descargando la utilidad [gtfs-validator]
 ## Enlaces
 
 https://data.renfe.com/dataset/horarios-cercanias
+
 https://gtfs.studio/
+
 https://gtfs-validator.mobilitydata.org/
+
 https://gtfs.org/
